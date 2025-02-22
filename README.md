@@ -12,3 +12,4 @@ What
 - 👯 I do R, STATA, and Python coding.
 - 🤔 I code mostly for working (Computer Assisted Audit Technique (CAATs) and Data Analytics), learning, and finisihing my university homework.
 - ⚡ Fun fact: I speak English, Indonesian, French. I understand a little bit Russian, Italian, German, and Spanish. My project on 2025 is to learn Portuguese.
+-->
