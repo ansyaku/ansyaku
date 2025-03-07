@@ -4,7 +4,7 @@
 I'm not actively maintaining this repository. However, since some of my work need to stay still here and some things are easier to do here then I keep try to "make alive of this repo".
 My active repo is in [Gitlab](https://gitlab.com/andreas.syaloom.k).
 
-- 🔭 I’m currently working on some script on MATLAB Dynamic Stochastic General Equilbrium (DSGE), some numerical method on macro model, and spatial analysis. 
+- 🔭 I’m currently working on some MATLAB Dynamic Stochastic General Equilbrium (DSGE) script, numerical method on macro model, and spatial analysis. 
 - 🌱 I’m still learning MATLAB.
 - 👯 I mostly use R, Python, and STATA for coding.
 - 🤔 Most of my code is related to my work on (Computer Assisted Audit Technique (CAATs) and Data Analytics). Others are for learning and finisihing my university task.
