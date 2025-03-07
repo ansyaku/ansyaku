@@ -14,5 +14,6 @@ My active repo is in [Gitlab](https://gitlab.com/andreas.syaloom.k).
   - My project on 2025 is to learn Portuguese.
  
 - 👯 Some of interesting repo of mine :
-  - [12 Data Visualization with R](https://github.com/ansyaku/30DayChartChallenge) you can view the visualization by clicking the png file.
+  - [12 Data Visualization with R](https://github.com/ansyaku/30DayChartChallenge) You can view the visualization by clicking the png file. This visualization is part of twitter challenge for creating 30 visualization in a month.
+  - [Pelatihan Jarak Jauh Python untuk Data Analytics](https://gitlab.com/andreas.syaloom.k/2022-pjj-pythonda) A course for Ministry of Finance Employee for enabling them to perform data analysis in their job. I taught 2.5 day / over 5 day collaborating with my fellow colleague in Inspektorat Jenderal Kementerian Keuangan. I cover 1st, 2nd day for Python Basics and 5th day concerning feature engineering. 
 
